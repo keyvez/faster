@@ -18,7 +18,7 @@ export {
   SignJWT,
 } from "https://deno.land/x/jose@v4.14.4/index.ts";
 
-export { storage } from "https://deno.land/x/fast_storage/mod.ts";
+export { storage } from "https://deno.land/x/fast_storage@v2.0/mod.ts";
 
 export type { Cookie } from "https://deno.land/std@0.197.0/http/cookie.ts";
 
